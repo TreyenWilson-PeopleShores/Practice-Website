@@ -1,0 +1,14 @@
+.bttf {
+    text-align: center;
+}
+
+.ttm {
+    text-align: left;
+    image-orientation: flip;
+    align-self: auto;
+}
+
+body {
+
+    border-collapse: collapse;
+}
